@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Spider Man",
+    "weight": 87.4,
+    "height": 187.0,
+    "pictureURL": "some",
+    "category": "spider",
+    "overallAbility": 45
+  },
+  {
+    "id": 3,
+    "name": "Spider Man",
+    "weight": 87.4,
+    "height": 187.0,
+    "pictureURL": "some",
+    "category": "spider",
+    "overallAbility": 45
+  },
+  {
+    "id": 4,
+    "name": "Wolverine",
+    "weight": 110.2,
+    "height": 187.0,
+    "pictureURL": "something",
+    "category": "mutant",
+    "overallAbility": 67
+  }
+]
