@@ -1,29 +1,38 @@
 [
   {
-    "id": 1,
-    "name": "Spider Man",
-    "weight": 87.4,
-    "height": 187.0,
-    "pictureURL": "some",
-    "category": "spider",
-    "overallAbility": 45
+    "id": 5,
+    "name": "Thor",
+    "weight": 190.0,
+    "height": 200.1,
+    "pictureURL": "https://comicvine.gamespot.com/a/uploads/scale_small/11139/111399535/9140994-20231020_153307~3.jpg",
+    "category": "avenger",
+    "overallAbility": 99
   },
   {
-    "id": 3,
-    "name": "Spider Man",
-    "weight": 87.4,
-    "height": 187.0,
-    "pictureURL": "some",
-    "category": "spider",
-    "overallAbility": 45
+    "id": 6,
+    "name": "Iron Man",
+    "weight": 87.3,
+    "height": 180.0,
+    "pictureURL": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8654427-ezgif-1-2f113089e4.jpg",
+    "category": "avenger",
+    "overallAbility": 88
   },
   {
-    "id": 4,
-    "name": "Wolverine",
-    "weight": 110.2,
-    "height": 187.0,
-    "pictureURL": "something",
-    "category": "mutant",
-    "overallAbility": 67
+    "id": 7,
+    "name": "Thing",
+    "weight": 250.0,
+    "height": 201.5,
+    "pictureURL": "https://comicvine.gamespot.com/a/uploads/scale_small/11141/111413247/7267709-e47c719d-a99f-46ef-9379-269760c8b548_rw_1200.jpg",
+    "category": "fantastic 4",
+    "overallAbility": 77
+  },
+  {
+    "id": 8,
+    "name": "Captain America",
+    "weight": 100.2,
+    "height": 190.0,
+    "pictureURL": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8459983-rco031_1650495781.jpg",
+    "category": "avenger",
+    "overallAbility": 80
   }
 ]
